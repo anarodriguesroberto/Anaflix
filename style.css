@@ -32,8 +32,8 @@ h2 {
 }
  
 .chamada {
-    color:#344c9c;
-    background: #9494cc;
+    color:#349c5f;
+    background: #cc9694;
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex; /* torna flexivel = põe um do lado do outro */
@@ -46,7 +46,7 @@ h2 {
 }
 
 
-img{
+img{27-08
     height: 200px;
 }
 
@@ -55,7 +55,7 @@ img{
     padding-left: 20px;
     padding-right: 20px;
     margin-bottom: 100px;
-    background-image: linear-gradient( #9494cc, #166f40) ;
+    background-image: linear-gradient( #c394cc, #6f6916) ;
 }
 
 
@@ -69,5 +69,5 @@ img{
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid blueviolet;
+    border: 3px solid rgb(226, 177, 43);
 }
